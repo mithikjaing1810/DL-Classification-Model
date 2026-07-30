@@ -53,11 +53,6 @@ from torch.utils.data import DataLoader, TensorDataset
 import gdown
 import re
 
-# ---------------------------------------------------------
-# Name: Athul Krishna A V
-# Register No: 212225240017
-# ---------------------------------------------------------
-
 # 1. Download CSV directly from Google Drive using gdown
 # New link provided by user:
 new_google_drive_link = '/content/customers (1).csv'
